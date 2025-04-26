@@ -1,0 +1,9 @@
+{
+  "formulas": ["formula1", "formula2"],
+  "containers": ["A", "B", "C"]
+}
+
+{
+  "optimalPlan": ["C", "B", "A"],
+  "computationTimeMs": 1
+}
